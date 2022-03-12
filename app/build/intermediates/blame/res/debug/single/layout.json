@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/oleg/AndroidStudioProjects/android-kotlin-fundamentals-apps/DevBytesRepository/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_dev_byte.xml",
+        "source": "/home/oleg/AndroidStudioProjects/android-kotlin-fundamentals-apps/DevBytesRepository/app/src/main/res/layout/fragment_dev_byte.xml"
+    },
+    {
+        "merged": "/home/oleg/AndroidStudioProjects/android-kotlin-fundamentals-apps/DevBytesRepository/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/devbyte_item.xml",
+        "source": "/home/oleg/AndroidStudioProjects/android-kotlin-fundamentals-apps/DevBytesRepository/app/src/main/res/layout/devbyte_item.xml"
+    }
+]
